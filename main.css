@@ -1,0 +1,93 @@
+
+.container {
+
+    display: flex;
+    flex-direction: row;
+}
+
+.section1 {
+
+    background-image: url("./Oval.png");
+    display: flex;
+    flex-direction: column;
+    background-size: contain;
+    background-repeat: no-repeat;
+    min-width: 275px;
+    min-height: 568px;
+    padding-top: 16px;
+    
+    align-items: flex-start;
+   
+
+}
+
+.Section2 {
+
+    display: flex;
+    flex-direction: column;
+    
+    
+
+   
+}
+
+.number8  {
+
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    margin-left: 24px;
+    gap: 20px;
+    
+    
+    
+}
+
+.number8 > span  {
+
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 50%;
+    aspect-ratio: 1/1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Section2 {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+
+#form  {
+
+
+    font:
+    
+}
+
+
+
+
+.button {
+
+    align-self: flex-end;
+}
+
+.span1{
+
+    background-color: #BEE2FD;
+    ;
+}
+
+.span2 {
+
+    te
+}
+    
+
+
